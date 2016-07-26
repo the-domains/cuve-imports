@@ -12,3 +12,6 @@ color:
     - '#1D2326'
     - '#6A6A61'
 name: Cuvée Imports
+author:
+  email: eric@cuveeimports.com
+  name: Eric Frick
