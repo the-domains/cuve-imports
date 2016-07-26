@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-26T19:12:25.696Z'
+datePublished: '2016-07-26T19:16:48.930Z'
 author: []
 via: {}
-dateModified: '2016-07-26T19:12:25.304Z'
+dateModified: '2016-07-26T19:16:48.257Z'
 title: ''
 publisher: {}
 description: Greetings from Champagne
